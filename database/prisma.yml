@@ -1,0 +1,5 @@
+service: hacknews-node
+stage: dev
+datamodel: datamodel.graphql
+secret: mysecret123
+cluster: local
